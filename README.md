@@ -81,8 +81,7 @@ For Frontend:
 
 ## Screenshots
 
-
-
-
-
+![landing](https://github.com/user-attachments/assets/7b8e7bac-b02a-4d6d-bbbe-c650eb4e8b0b)
+![teacherlogin](https://github.com/user-attachments/assets/e4993d1e-99ed-4808-aafb-5ef81a562efa)
+![createpoll](https://github.com/user-attachments/assets/7a2ceb7b-f993-4233-8500-4f55a195d9fd)
 
