@@ -10,7 +10,7 @@ let apiUrl =
     : "http://localhost:3000";
 const socket = io(apiUrl);
 
-const PollHistoryPage = () => {
+const PollHistory = () => {
   const [polls, setPolls] = useState([]);
   const navigate = useNavigate();
   useEffect(() => {
@@ -110,4 +110,4 @@ const PollHistoryPage = () => {
   );
 };
 
-export default PollHistoryPage;
+export default PollHistory;
