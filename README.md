@@ -77,7 +77,7 @@ For Frontend:
   npm run dev
 ```
 
-**Note** -- While logging in as a teacher start your username with "tech#" like tech#sid.
+**Note** -- While logging in as a teacher start your username with "teacher" like teacher#sid.
 
 ## Screenshots
 
